@@ -4,6 +4,6 @@ It makes up parts of my coding portfolio.
 
 You can see this project live at the following URL:
 
-https://abdullahimuridi.github.io/tribute-page/
+https://abdullahimuridi.github.io/survey-form-page/
 
 Enjoy!
