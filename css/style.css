@@ -56,9 +56,11 @@ form {
 }
 
 button {
+  background-color: #52b065;
   width: 94%;
-  padding: 10px;
+  padding: 15px;
   margin-top: 20px;
+  border-radius: 5px;
 }
 
 @media (max-width: 900px) {
@@ -77,6 +79,7 @@ button {
   #description {
     font-size: 15px;
   }
+
   form {
     width: 100%;
   }
